@@ -19,7 +19,7 @@ String ISBucketURL = "https://groker.initialstate.com/api/buckets";
 // URL to IS Event API
 String ISEventURL = "https://groker.initialstate.com/api/events";
 // Access key (the one you find in your account settings):
-String accessKey = "Your_Access_Key_Here";
+String accessKey = "ist_2SUXmWRIiCrxnntn0RBcJKWHDo_UBfRI";
 // Bucket key (hidden reference to your bucket that allows appending):
 String bucketKey = "yun_trash";
 // Bucket name (name your data will be associated with in Initial State):
